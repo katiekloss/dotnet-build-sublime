@@ -1,0 +1,7 @@
+{
+    "shell_cmd": "dotnet build -clp:ForceConsoleColor",
+    "selector": "source.cs",
+    "working_dir": "$project_path",
+    "target": "ansi_color_build",
+    "syntax": "Packages/ANSIescape/ANSI.sublime-syntax"
+}
